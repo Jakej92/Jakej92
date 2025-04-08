@@ -33,7 +33,7 @@ Phone : 010-6662-9700 (KOREA) <br>
 
 
 <div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jakejung&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakej92&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Jakej92&show_icons=true">
 </div>
 <br>
