@@ -30,7 +30,7 @@
 
 <div align=left>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakej92&layout=donut">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakej92&layout=pie">
 <img src="https://github-readme-stats.vercel.app/api?username=Jakej92&show_icons=true">
 </div>
 <br>
