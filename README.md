@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jake's%20Github"  style ="width : 1000px; height:400px"/>
 </div>
 
-Canada : 
+### English : 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kor.jakejung@gmail.com)](mailto:kor.jakejung@gmail.com) <span><a href="https://www.notion.so/1fac7578d5718085b539c6934cedfedb"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
-Korea :
+### Korean :
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kor.jakejung@gmail.com)](mailto:kor.jakejung@gmail.com) <span><a href="https://www.notion.so/1d1c7578d57180728e22f3e36270120f"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
