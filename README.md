@@ -3,7 +3,7 @@
 </div>
 
 ### English : 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kor.jakejung@gmail.com)](mailto:kor.jakejung@gmail.com) <span><a href="https://www.notion.so/1fac7578d5718085b539c6934cedfedb"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jakedyj92@gmail.com)](mailto:jakedyj92@gmail.com) <span><a href="https://www.notion.so/1fac7578d5718085b539c6934cedfedb"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 ### Korean :
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kor.jakejung@gmail.com)](mailto:kor.jakejung@gmail.com) <span><a href="https://www.notion.so/1d1c7578d57180728e22f3e36270120f"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
